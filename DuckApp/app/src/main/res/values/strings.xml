@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Duck</string>
+    <string name="how_tea">How do you like your tea served?</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="Lemon">Lemon</string>
+    <string-array name="teplo">
+        <item>Hot</item>
+        <item>Cold</item>
+    </string-array>
+</resources>
