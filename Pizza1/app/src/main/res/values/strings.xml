@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="create_order">Create order</string>
+    <string name="action_share"><Share></Share></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top">Top fragment</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sabastopol</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+
+    <string name="company_name">Bits and pizzas</string>
+    <string name="restaurant_image">Restaurant</string>
+    <string name="home_text">qwertyeuyiyoyyui
+        kghbnxcvafqrevgergvmsjfhawiefhquiwgfwefqwf
+        dsfadasfasd fasdfwecfqwefqwedqwe fqwe fqwerf safqw sdf
+        irghewrgqjrenfkjdncfquewufqueiwhfiqdhjfquwebhfjbnqwcmfqueiw
+        dasfasdfasedfasdfwefqwefqcwefqwefqwefrqeg</string>
+
+
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+</resources>
